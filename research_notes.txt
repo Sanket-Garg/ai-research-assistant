@@ -1,0 +1,14 @@
+
+Machine Learning Research Notes
+
+Machine learning is a branch of artificial intelligence
+that enables computers to learn patterns from data.
+
+Supervised learning uses labeled training examples.
+Unsupervised learning finds patterns in unlabeled data.
+
+Model evaluation measures how well a model performs
+on data that was not used for training.
+
+Overfitting occurs when a model learns the training
+data too closely and performs poorly on unseen data.
